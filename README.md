@@ -6,10 +6,8 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **2** 篇（上次更新: 2024-12-12）
+共计 **1** 篇（上次更新: 2024-12-12）
 
-## 2024 年 (共计 2 篇)
+## 2024 年 (共计 1 篇)
 
-1. 2024-12-12 —— [CSS 函数](https://github.com/wild2life/daily-notes/issues/2)
-
-2. 2024-12-11 —— [使用 JS 开发命令行程序](https://github.com/wild2life/daily-notes/issues/1)
+1. 2024-12-12 —— [.npmrc 学习笔记](https://github.com/wild2life/daily-notes/issues/1)
