@@ -6,10 +6,12 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **2** 篇（上次更新: 2024-12-12）
+共计 **3** 篇（上次更新: 2024-12-12）
 
-## 2024 年 (共计 2 篇)
+## 2024 年 (共计 3 篇)
 
-1. 2024-12-12 —— [修改 DNS 解决 Github 图片资源加载失败](https://github.com/wild2life/daily-notes/issues/2)
+1. 2024-12-12 —— [使用 URLSearchParams 解析 URL 的查询字符串](https://github.com/wild2life/daily-notes/issues/3)
 
-2. 2024-12-12 —— [.npmrc 学习笔记](https://github.com/wild2life/daily-notes/issues/1)
+2. 2024-12-12 —— [修改 DNS 解决 Github 图片资源加载失败](https://github.com/wild2life/daily-notes/issues/2)
+
+3. 2024-12-12 —— [.npmrc 学习笔记](https://github.com/wild2life/daily-notes/issues/1)
