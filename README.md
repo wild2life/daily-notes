@@ -6,18 +6,20 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **6** 篇（上次更新: 2024-12-12）
+共计 **7** 篇（上次更新: 2024-12-12）
 
-## 2024 年 (共计 6 篇)
+## 2024 年 (共计 7 篇)
 
-1. 2024-12-12 —— [从 VSCode 迁移到 Cursor](https://github.com/wild2life/daily-notes/issues/6)
+1. 2024-12-12 —— [修改 `node_modules` 中的依赖（打补丁）](https://github.com/wild2life/daily-notes/issues/7)
 
-2. 2024-12-12 —— [使用 npm 脚本钩子](https://github.com/wild2life/daily-notes/issues/5)
+2. 2024-12-12 —— [从 VSCode 迁移到 Cursor](https://github.com/wild2life/daily-notes/issues/6)
 
-3. 2024-12-12 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wild2life/daily-notes/issues/4)
+3. 2024-12-12 —— [使用 npm 脚本钩子](https://github.com/wild2life/daily-notes/issues/5)
 
-4. 2024-12-12 —— [使用 URLSearchParams 解析 URL 的查询字符串](https://github.com/wild2life/daily-notes/issues/3)
+4. 2024-12-12 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wild2life/daily-notes/issues/4)
 
-5. 2024-12-12 —— [修改 DNS 解决 Github 图片资源加载失败](https://github.com/wild2life/daily-notes/issues/2)
+5. 2024-12-12 —— [使用 URLSearchParams 解析 URL 的查询字符串](https://github.com/wild2life/daily-notes/issues/3)
 
-6. 2024-12-12 —— [.npmrc 学习笔记](https://github.com/wild2life/daily-notes/issues/1)
+6. 2024-12-12 —— [修改 DNS 解决 Github 图片资源加载失败](https://github.com/wild2life/daily-notes/issues/2)
+
+7. 2024-12-12 —— [.npmrc 学习笔记](https://github.com/wild2life/daily-notes/issues/1)
