@@ -6,7 +6,11 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **11** 篇（上次更新: 2024-12-27）
+共计 **12** 篇（上次更新: 2025-01-03）
+
+## 2025 年 (共计 1 篇)
+
+1. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
 
 ## 2024 年 (共计 11 篇)
 
