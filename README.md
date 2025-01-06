@@ -6,11 +6,13 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **12** 篇（上次更新: 2025-01-03）
+共计 **13** 篇（上次更新: 2025-01-06）
 
-## 2025 年 (共计 1 篇)
+## 2025 年 (共计 2 篇)
 
-1. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
+1. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+
+2. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
 
 ## 2024 年 (共计 11 篇)
 
