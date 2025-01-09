@@ -6,15 +6,17 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **14** 篇（上次更新: 2025-01-08）
+共计 **15** 篇（上次更新: 2025-01-09）
 
-## 2025 年 (共计 3 篇)
+## 2025 年 (共计 4 篇)
 
-1. 2025-01-08 —— [Ubuntu 安装Charles](https://github.com/wild2life/daily-notes/issues/14)
+1. 2025-01-09 —— [使用 rollup 打包用户脚本](https://github.com/wild2life/daily-notes/issues/15)
 
-2. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+2. 2025-01-08 —— [Ubuntu 安装Charles](https://github.com/wild2life/daily-notes/issues/14)
 
-3. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
+3. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+
+4. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
 
 ## 2024 年 (共计 11 篇)
 
