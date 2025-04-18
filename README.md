@@ -6,21 +6,23 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **17** 篇（上次更新: 2025-03-28）
+共计 **18** 篇（上次更新: 2025-04-18）
 
-## 2025 年 (共计 6 篇)
+## 2025 年 (共计 7 篇)
 
-1. 2025-03-28 —— [Flex 语法和计算规则](https://github.com/wild2life/daily-notes/issues/17)
+1. 2025-04-18 —— [飞书二维码本地开发加载失败问题排查指南](https://github.com/wild2life/daily-notes/issues/18)
 
-2. 2025-02-26 —— [本地部署 DeepSeek 大模型](https://github.com/wild2life/daily-notes/issues/16)
+2. 2025-03-28 —— [Flex 语法和计算规则](https://github.com/wild2life/daily-notes/issues/17)
 
-3. 2025-01-09 —— [使用 rollup 打包用户脚本](https://github.com/wild2life/daily-notes/issues/15)
+3. 2025-02-26 —— [本地部署 DeepSeek 大模型](https://github.com/wild2life/daily-notes/issues/16)
 
-4. 2025-01-08 —— [Ubuntu 安装Charles](https://github.com/wild2life/daily-notes/issues/14)
+4. 2025-01-09 —— [使用 rollup 打包用户脚本](https://github.com/wild2life/daily-notes/issues/15)
 
-5. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+5. 2025-01-08 —— [Ubuntu 安装Charles](https://github.com/wild2life/daily-notes/issues/14)
 
-6. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
+6. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+
+7. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
 
 ## 2024 年 (共计 11 篇)
 
