@@ -6,41 +6,43 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **27** 篇（上次更新: 2025-11-05）
+共计 **28** 篇（上次更新: 2025-11-19）
 
-## 2025 年 (共计 16 篇)
+## 2025 年 (共计 17 篇)
 
-1. 2025-11-05 —— [SVG、PNG、JPEG（JPG）、WebP 的区别](https://github.com/wild2life/daily-notes/issues/27)
+1. 2025-11-19 —— [spec-kit cursor实践](https://github.com/wild2life/daily-notes/issues/28)
 
-2. 2025-10-31 —— [前端Docker部署](https://github.com/wild2life/daily-notes/issues/26)
+2. 2025-11-05 —— [SVG、PNG、JPEG（JPG）、WebP 的区别](https://github.com/wild2life/daily-notes/issues/27)
 
-3. 2025-10-29 —— [Linux 图标和光标主题完整安装指南](https://github.com/wild2life/daily-notes/issues/25)
+3. 2025-10-31 —— [前端Docker部署](https://github.com/wild2life/daily-notes/issues/26)
 
-4. 2025-10-27 —— [VitePress 博客搜索与评论配置指南](https://github.com/wild2life/daily-notes/issues/24)
+4. 2025-10-29 —— [Linux 图标和光标主题完整安装指南](https://github.com/wild2life/daily-notes/issues/25)
 
-5. 2025-10-23 —— [GitHub Pages 部署与 Workflow](https://github.com/wild2life/daily-notes/issues/23)
+5. 2025-10-27 —— [VitePress 博客搜索与评论配置指南](https://github.com/wild2life/daily-notes/issues/24)
 
-6. 2025-10-11 —— [浏览器的自动播放策略](https://github.com/wild2life/daily-notes/issues/22)
+6. 2025-10-23 —— [GitHub Pages 部署与 Workflow](https://github.com/wild2life/daily-notes/issues/23)
 
-7. 2025-10-11 —— [解决 Rsbuild 和 Vite 中 sass 编译 Element 字体图标乱码问题](https://github.com/wild2life/daily-notes/issues/21)
+7. 2025-10-11 —— [浏览器的自动播放策略](https://github.com/wild2life/daily-notes/issues/22)
 
-8. 2025-10-11 —— [预览 Office 文档方案对比](https://github.com/wild2life/daily-notes/issues/20)
+8. 2025-10-11 —— [解决 Rsbuild 和 Vite 中 sass 编译 Element 字体图标乱码问题](https://github.com/wild2life/daily-notes/issues/21)
 
-9. 2025-04-18 —— [飞书二维码加载失败问题排查与解决说明文档](https://github.com/wild2life/daily-notes/issues/19)
+9. 2025-10-11 —— [预览 Office 文档方案对比](https://github.com/wild2life/daily-notes/issues/20)
 
-10. 2025-04-18 —— [飞书二维码本地开发加载失败问题排查指南](https://github.com/wild2life/daily-notes/issues/18)
+10. 2025-04-18 —— [飞书二维码加载失败问题排查与解决说明文档](https://github.com/wild2life/daily-notes/issues/19)
 
-11. 2025-03-28 —— [Flex 语法和计算规则](https://github.com/wild2life/daily-notes/issues/17)
+11. 2025-04-18 —— [飞书二维码本地开发加载失败问题排查指南](https://github.com/wild2life/daily-notes/issues/18)
 
-12. 2025-02-26 —— [本地部署 DeepSeek 大模型](https://github.com/wild2life/daily-notes/issues/16)
+12. 2025-03-28 —— [Flex 语法和计算规则](https://github.com/wild2life/daily-notes/issues/17)
 
-13. 2025-01-09 —— [使用 rollup 打包用户脚本](https://github.com/wild2life/daily-notes/issues/15)
+13. 2025-02-26 —— [本地部署 DeepSeek 大模型](https://github.com/wild2life/daily-notes/issues/16)
 
-14. 2025-01-08 —— [Ubuntu 安装Charles](https://github.com/wild2life/daily-notes/issues/14)
+14. 2025-01-09 —— [使用 rollup 打包用户脚本](https://github.com/wild2life/daily-notes/issues/15)
 
-15. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+15. 2025-01-08 —— [Ubuntu 安装Charles](https://github.com/wild2life/daily-notes/issues/14)
 
-16. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
+16. 2025-01-06 —— [浏览器代理插件SwitchyOmega](https://github.com/wild2life/daily-notes/issues/13)
+
+17. 2025-01-03 —— [从 Windows 到 Ubuntu](https://github.com/wild2life/daily-notes/issues/12)
 
 ## 2024 年 (共计 11 篇)
 
