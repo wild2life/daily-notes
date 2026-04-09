@@ -6,7 +6,11 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **28** 篇（上次更新: 2025-11-19）
+共计 **29** 篇（上次更新: 2026-04-09）
+
+## 2026 年 (共计 1 篇)
+
+1. 2026-04-09 —— [SSH 远程连接](https://github.com/wild2life/daily-notes/issues/29)
 
 ## 2025 年 (共计 17 篇)
 
