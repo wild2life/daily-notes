@@ -6,11 +6,13 @@
 >
 > [新写一篇小笔记](https://github.com/wild2life/daily-notes/issues/new)
 
-共计 **29** 篇（上次更新: 2026-04-09）
+共计 **30** 篇（上次更新: 2026-04-23）
 
-## 2026 年 (共计 1 篇)
+## 2026 年 (共计 2 篇)
 
-1. 2026-04-09 —— [SSH 远程连接](https://github.com/wild2life/daily-notes/issues/29)
+1. 2026-04-23 —— [一次“有控件无画面”的视频播放问题](https://github.com/wild2life/daily-notes/issues/30)
+
+2. 2026-04-09 —— [SSH 远程连接](https://github.com/wild2life/daily-notes/issues/29)
 
 ## 2025 年 (共计 17 篇)
 
